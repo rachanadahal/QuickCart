@@ -53,7 +53,7 @@ await User.findByIdAndUpdate(id,userData)
 //inngest function to delete user from databaase 
 export const syncUserDeletion =inngest.createFunction(
     {
-    id:'delete-userr-with-clerk'
+    id:'delete-user-with-clerk'
 },
 {event:'clerk/user.deleted'},
 async({event})=>{

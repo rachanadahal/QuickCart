@@ -3,7 +3,7 @@ import search_icon from "./search_icon.svg";
 import user_icon from "./user_icon.svg";
 import cart_icon from "./cart_icon.svg";
 import add_icon from "./add_icon.svg";
-import order_icon from "./order_icon.svg";
+import order_icon from "./order_icon.svg"; 
 import instagram_icon from "./instagram_icon.svg";
 import facebook_icon from "./facebook_icon.svg";
 import twitter_icon from "./twitter_icon.svg";
